@@ -1,0 +1,1 @@
+This repository contains some of the work of SQL,PLSQL and MongoDB queires during the project work.It also contains ER diagrams of real word scenarioes.
